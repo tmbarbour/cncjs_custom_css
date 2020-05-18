@@ -1,0 +1,43 @@
+
+/* This is custom 'override' css for cncjs */
+button[title="Move Z+"] {
+    color: red;
+    min-width:28px !important;
+    width: 28px !important;
+    margin-left:  10px;
+    background:#c1eeff !important;
+}
+
+button[title="Move To Z Zero (G0 Z0)"] {
+    color: red;
+    min-width:28px !important;
+    width: 28px !important;
+    margin-left:  10px;
+    background:#c1eeff !important;
+}
+
+button[title="Move Z-"] {
+    color: red;
+    min-width:28px !important;
+    width: 28px !important;
+    margin-left:  10px;
+    background:#c1eeff !important;
+}
+
+button[title="Move Y+"] {
+    background: #ffffbe;
+}
+
+button[title="Move Y-"] {
+    background: #ffffbe;
+}
+
+button[title="Move X+"] {
+    background: #ffffbe;
+}
+
+button[title="Move X-"] {
+    background: #ffffbe;
+}
+
+
