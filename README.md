@@ -18,8 +18,9 @@ pi       30517  3.4  2.0 191252 82116 pts/7    Sl+  18:49   0:38 node /usr/local
 
 -- cd to the parent directory of the running command
 
--- cd /usr/local/bin
-
+```
+cd /usr/local/bin
+```
 -- Then list the details of that directory
 
 -- ls -l
