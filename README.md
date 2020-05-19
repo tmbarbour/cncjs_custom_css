@@ -37,7 +37,9 @@ lrwxrwxrwx 1 root root 35 Apr 20 17:16 cncjs -> ../lib/node_modules/cncjs/bin/cn
 
 -- List the contents
 
--- ls -l
+```
+ls -l
+```
 
 ```
 drwxr-xr-x   2 root root  4096 Apr 20 17:14 bin
