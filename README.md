@@ -55,7 +55,9 @@ drwxr-xr-x   2 root root  4096 Apr 20 17:14 static
 You can append using the linux 'cat' command, or in windows you can edit and update in notepad
 - IT IS VERY IMPORTANT TO USE TWO GREATER THAN SIGNS TO APPEND AND NOT REPLACE
 
--- cat ~/my_download_dir/cncjs_custom_css/custom_cncjs.css >> app.css
+```
+cat ~/my_download_dir/cncjs_custom_css/custom_cncjs.css >> app.css
+```
 
 - Restart your cncjs server
 
