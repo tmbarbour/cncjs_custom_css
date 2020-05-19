@@ -51,7 +51,7 @@ drwxr-xr-x   2 root root  4096 Apr 20 17:14 static
 
 -- cd to app
 
-- Inside the app directory there should be a app.css file. Append the contents of the custom_cncjs.css to that file
+- Inside the app directory there should be an **app.css** file. Append the contents of the **custom_cncjs.css** to that file
 You can append using the linux 'cat' command, or in windows you can edit and update in notepad
 - IT IS VERY IMPORTANT TO USE TWO GREATER THAN SIGNS TO APPEND AND NOT REPLACE
 
