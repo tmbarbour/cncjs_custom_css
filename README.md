@@ -22,7 +22,8 @@ You can track back where it's running with the following set of commands:
 
 -- It should display something like:
 
---- lrwxrwxrwx 1 root root 35 Apr 20 17:16 cncjs -> ../lib/node_modules/cncjs/bin/cncjs
+```lrwxrwxrwx 1 root root 35 Apr 20 17:16 cncjs -> ../lib/node_modules/cncjs/bin/cncjs
+```
 
 -- cd to that parent directory
 
@@ -32,22 +33,15 @@ You can track back where it's running with the following set of commands:
 
 -- ls -l
 
---- drwxr-xr-x   2 root root  4096 Apr 20 17:14 bin
-
---- -rw-r--r--   1 root root    98 Oct 26  1985 CHANGELOG.md
-
---- drwxr-xr-x   3 root root  4096 Apr 20 17:14 dist
-
---- -rw-r--r--   1 root root  1082 Oct 26  1985 LICENSE
-
---- drwxr-xr-x 532 root root 20480 Apr 20 17:16 node_modules
-
---- -rw-r--r--   1 root root 13805 Apr 20 17:16 package.json
-
---- -rw-r--r--   1 root root 16433 Oct 26  1985 README.md
-
---- drwxr-xr-x   2 root root  4096 Apr 20 17:14 static
-
+```drwxr-xr-x   2 root root  4096 Apr 20 17:14 bin
+-rw-r--r--   1 root root    98 Oct 26  1985 CHANGELOG.md
+drwxr-xr-x   3 root root  4096 Apr 20 17:14 dist
+-rw-r--r--   1 root root  1082 Oct 26  1985 LICENSE
+drwxr-xr-x 532 root root 20480 Apr 20 17:16 node_modules
+-rw-r--r--   1 root root 13805 Apr 20 17:16 package.json
+-rw-r--r--   1 root root 16433 Oct 26  1985 README.md
+drwxr-xr-x   2 root root  4096 Apr 20 17:14 static
+```
 
 -- cd to the 'dist' directory
 -- cd to cncjs
@@ -59,6 +53,4 @@ You can track back where it's running with the following set of commands:
 
 - Restart your cncjs server
 - Ctrl-Shift refresh your browser to clear the cache and load the new app
-
-
 
