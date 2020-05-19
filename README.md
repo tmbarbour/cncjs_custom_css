@@ -53,7 +53,7 @@ drwxr-xr-x   2 root root  4096 Apr 20 17:14 static
 
 - Inside the app directory there should be a app.css file. Append the contents of the custom_cncjs.css to that file
 You can append using the linux 'cat' command, or in windows you can edit and update in notepad
-- VERY IMPORTANT TO USE TWO GREATER THAN SIGNS TO APPEND AND NOT REPLACE
+- IT IS VERY IMPORTANT TO USE TWO GREATER THAN SIGNS TO APPEND AND NOT REPLACE
 
 -- cat ~/my_download_dir/cncjs_custom_css/custom_cncjs.css >> app.css
 
