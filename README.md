@@ -7,7 +7,9 @@ Find out where the CNCjs application is running. Mine is running from
 
 Unix commands to find the location
 You can track back where it's running with the following set of commands:
-- ps aux | grep cnc
+```
+ps aux | grep cnc
+```
 -- It should display something like:  
 
 ```
