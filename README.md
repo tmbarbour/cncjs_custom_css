@@ -10,7 +10,9 @@ You can track back where it's running with the following set of commands:
 - ps aux | grep cnc
 -- It should display something like:  
 
---- pi       30517  3.4  2.0 191252 82116 pts/7    Sl+  18:49   0:38 node /usr/local/bin/cncjs
+```
+pi       30517  3.4  2.0 191252 82116 pts/7    Sl+  18:49   0:38 node /usr/local/bin/cncjs
+```
 
 -- cd to the parent directory of the running command
 
