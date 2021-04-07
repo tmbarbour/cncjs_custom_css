@@ -1,6 +1,6 @@
 # cncjs_custom_css
-Custom CSS to override CNCjs button styles
-![alt text](https://github.com/tmbarbour/cncjs_custom_css/blob/master/cncjs-keypad.png?raw=true | width=100)
+Custom CSS to override CNCjs button styles  
+![alt text](https://github.com/tmbarbour/cncjs_custom_css/blob/master/cncjs-keypad.png?raw=true){:height="200px"}
 
 Clone (or download a .zip) of this repository
 Find out where the CNCjs application is running. Mine is running from 
