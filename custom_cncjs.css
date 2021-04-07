@@ -16,6 +16,14 @@ button[title*="G0 Z0"] {
     background:#c1eeff !important;
 }
 
+button[title="Déplacer Z à zéro"] {
+    color: red;
+    min-width:28px !important;
+    width: 28px !important;
+    margin-left:  10px;
+    background:#c1eeff !important;
+}
+
 button[title*="Z-"] {
     color: red;
     min-width:28px !important;
